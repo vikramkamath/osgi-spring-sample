@@ -8,7 +8,8 @@ Import projects into workspace (if not already)
 Debug as New Osgi Configuration. Set up previously.
 
 Requirements:
-Eclipse 3.6 core
-Eclipse RCP plugin installed.
+>>Eclipse 3.6 core
+
+>>Eclipse RCP plugin installed.
 
 
