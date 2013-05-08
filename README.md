@@ -12,4 +12,6 @@ Requirements:
 
 >>Eclipse RCP plugin installed.
 
+>> Set Compiler to 1.5
+
 
