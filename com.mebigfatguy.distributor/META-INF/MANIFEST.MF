@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Distributor Plug-in
+Bundle-SymbolicName: com.mebigfatguy.distributor
+Bundle-Version: 1.0.0
+Require-Bundle: org.springframework.osgi.extender
+Import-Package: com.mebigfatguy.economy.marketplace
+Private-Package: META-INF.spring

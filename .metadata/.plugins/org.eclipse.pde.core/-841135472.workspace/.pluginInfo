@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="754" localization="OSGI-INF/l10n/bundle" name="MarketPlace Plug-in" project="com.mebigfatguy.marketplace">
+		<library name="marketplace"/>
+	</bundle>
+	<bundle bundleID="755" localization="OSGI-INF/l10n/bundle" name="Apache Commons Logging" project="com.springsource.org.apache.commons.logging" provider="SpringSource">
+		<library name="com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	</bundle>
+	<bundle bundleID="756" localization="OSGI-INF/l10n/bundle" name="Spring AOP" project="org.springframework.aop" provider="SpringSource">
+		<library name="org.springframework.aop-2.5.6.A.jar"/>
+	</bundle>
+	<bundle bundleID="757" localization="OSGI-INF/l10n/bundle" name="ChairAssembler Plug-in" project="com.mebigfatguy.chairassembler"/>
+	<bundle bundleID="758" localization="OSGI-INF/l10n/bundle" name="TreeChopper Plug-in" project="com.mebigfatguy.treechopper"/>
+	<bundle bundleID="759" localization="OSGI-INF/l10n/bundle" name="Distributor Plug-in" project="com.mebigfatguy.distributor"/>
+	<bundle bundleID="760" localization="OSGI-INF/l10n/bundle" name="Spring Core" project="org.springframework.core" provider="SpringSource">
+		<library name="org.springframework.core-2.5.6.A.jar"/>
+	</bundle>
+	<bundle bundleID="761" localization="OSGI-INF/l10n/bundle" name="Spring Context" project="org.springframework.context" provider="SpringSource">
+		<library name="org.springframework.context-2.5.6.A.jar"/>
+	</bundle>
+	<bundle bundleID="762" localization="OSGI-INF/l10n/bundle" name="TableAssembler Plug-in" project="com.mebigfatguy.tableassembler"/>
+	<bundle bundleID="763" class="org.eclipse.osgi.framework.internal.core.SystemBundleActivator" hasExtensibleAPI="true" localization="systembundle" name="%systemBundle" project="org.eclipse.osgi" provider="%eclipse.org">
+		<library name="org.eclipse.osgi-3.6.1.R36x_v20100806.jar"/>
+	</bundle>
+	<bundle bundleID="764" localization="OSGI-INF/l10n/bundle" name="SawMill Plug-in" project="com.mebigfatguy.sawmill"/>
+	<bundle bundleID="770" localization="OSGI-INF/l10n/bundle" name="spring-osgi-io" project="org.springframework.osgi.io" provider="SpringSource">
+		<library name="org.springframework.osgi.io-1.2.1.jar"/>
+	</bundle>
+	<bundle bundleID="766" localization="OSGI-INF/l10n/bundle" name="Spring Beans" project="org.springframework.beans" provider="SpringSource">
+		<library name="org.springframework.beans-2.5.6.A.jar"/>
+	</bundle>
+	<bundle bundleID="767" localization="OSGI-INF/l10n/bundle" name="spring-osgi-core" project="org.springframework.osgi.core" provider="SpringSource">
+		<library name="org.springframework.osgi.core-1.2.1.jar"/>
+	</bundle>
+	<bundle bundleID="768" class="org.springframework.osgi.extender.internal.activator.ContextLoaderListener" localization="OSGI-INF/l10n/bundle" name="spring-osgi-extender" project="org.springframework.osgi.extender" provider="SpringSource">
+		<library name="org.springframework.osgi.extender-1.2.1.jar"/>
+	</bundle>
+	<bundle bundleID="769" localization="OSGI-INF/l10n/bundle" name="AOP Alliance API" project="com.springsource.org.aopalliance" provider="SpringSource">
+		<library name="com.springsource.org.aopalliance-1.0.0.jar"/>
+	</bundle>
+</map>

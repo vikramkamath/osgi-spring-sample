@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;spring-osgi-1.2.1&apos;" deleteContents="true" description="Delete resource &apos;spring-osgi-1.2.1&apos;" element1="/spring-osgi-1.2.1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1367872609785"/>&#x0A;<refactoring comment="Delete resource &apos;org.springframework.osgi.io&apos;" deleteContents="false" description="Delete resource &apos;org.springframework.osgi.io&apos;" element1="/org.springframework.osgi.io" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1367942227755"/>
+</session>

@@ -1,0 +1,5 @@
+#Tue May 07 17:10:24 EDT 2013
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=/awips2/eclipse
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

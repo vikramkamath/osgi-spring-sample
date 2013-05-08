@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TreeChopper Plug-in
+Bundle-SymbolicName: com.mebigfatguy.treechopper
+Bundle-Version: 1.0.0
+Require-Bundle: org.springframework.osgi.extender
+Private-Package: META-INF.spring
+Import-Package: com.mebigfatguy.economy.marketplace
+

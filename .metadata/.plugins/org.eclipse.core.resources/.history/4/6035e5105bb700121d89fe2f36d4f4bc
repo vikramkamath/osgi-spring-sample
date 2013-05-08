@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MarketPlace Plug-in
+Bundle-SymbolicName: com.mebigfatguy.marketplace
+Bundle-Version: 1.0.0
+Bundle-ClassPath: marketplace
+Export-Package: com.mebigfatguy.economy.marketplace
+Require-Bundle: org.springframework.osgi.extender
+Private-Package: META-INF.spring

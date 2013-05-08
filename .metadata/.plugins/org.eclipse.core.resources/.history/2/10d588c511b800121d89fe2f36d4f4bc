@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SawMill Plug-in
+Bundle-SymbolicName: com.mebigfatguy.sawmill
+Bundle-Version: 1.0.0
+Require-Bundle: org.springframework.bundle.osgi.extender
+Import-Package: com.mebigfatguy.economy.marketplace
+Private-Package: META-INF.spring
+
